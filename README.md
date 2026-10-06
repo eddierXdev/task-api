@@ -106,7 +106,7 @@ Example:
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone <(https://github.com/eddier-dev/task-api)>
 ```
 
 Navigate to the project directory:
